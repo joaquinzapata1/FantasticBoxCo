@@ -1,6 +1,6 @@
 # FantasticBoxco
 
-###Hi! This is my React Test! I've made it simple by using the `create-react-app` package.
+### Hi! This is my React Test! I've made it simple by using the `create-react-app` package.
 
 Then I deployed it directly to GitHub Pages: https://joaquinzapata1.github.io/FantasticBoxco/
 
