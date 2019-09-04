@@ -1,2 +1,0 @@
-# FantasticBoxco
-React test
