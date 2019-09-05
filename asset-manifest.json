@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FantasticBoxco/static/css/main.f4343dfc.chunk.css",
-    "main.js": "/FantasticBoxco/static/js/main.de492c3d.chunk.js",
-    "main.js.map": "/FantasticBoxco/static/js/main.de492c3d.chunk.js.map",
+    "main.css": "/FantasticBoxco/static/css/main.4fbe3284.chunk.css",
+    "main.js": "/FantasticBoxco/static/js/main.0608acba.chunk.js",
+    "main.js.map": "/FantasticBoxco/static/js/main.0608acba.chunk.js.map",
     "runtime~main.js": "/FantasticBoxco/static/js/runtime~main.b70f41e0.js",
     "runtime~main.js.map": "/FantasticBoxco/static/js/runtime~main.b70f41e0.js.map",
     "static/js/2.c950d02b.chunk.js": "/FantasticBoxco/static/js/2.c950d02b.chunk.js",
     "static/js/2.c950d02b.chunk.js.map": "/FantasticBoxco/static/js/2.c950d02b.chunk.js.map",
     "index.html": "/FantasticBoxco/index.html",
-    "precache-manifest.c8d5377a8bcfa515af5e803b7b87163b.js": "/FantasticBoxco/precache-manifest.c8d5377a8bcfa515af5e803b7b87163b.js",
+    "precache-manifest.8013342b8244358ed805b28282c8eefb.js": "/FantasticBoxco/precache-manifest.8013342b8244358ed805b28282c8eefb.js",
     "service-worker.js": "/FantasticBoxco/service-worker.js",
-    "static/css/main.f4343dfc.chunk.css.map": "/FantasticBoxco/static/css/main.f4343dfc.chunk.css.map"
+    "static/css/main.4fbe3284.chunk.css.map": "/FantasticBoxco/static/css/main.4fbe3284.chunk.css.map"
   }
 }
