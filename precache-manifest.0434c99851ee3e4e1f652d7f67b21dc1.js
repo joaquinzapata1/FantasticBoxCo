@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4557e10b771dbc7bb7e7e292a0a126ea",
+    "revision": "29b5e89f01bf982857d27cef63649f4c",
     "url": "/FantasticBoxco/index.html"
   },
   {
