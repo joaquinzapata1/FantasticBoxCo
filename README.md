@@ -4,7 +4,9 @@
 
 Then I deployed it directly to GitHub Pages: https://joaquinzapata1.github.io/FantasticBoxco/
 
-The test is the following:
+To run it locally you should `npm install` and then `npm start` and you should be good to go.
+
+#### The test is the following:
 
 # Front-End Engineering test
 
