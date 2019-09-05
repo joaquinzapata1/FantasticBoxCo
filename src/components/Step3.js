@@ -23,7 +23,7 @@ export default class Step3 extends Component {
                   <label>
                     <input type="radio" name="quality" value="3-C"
                     onChange={this.handleInputChange}
-                    defaultChecked={quality==="3-color" ? true : false}/>
+                    defaultChecked={quality==="3-C" ? true : false}/>
                     <span className="btn btn-radio">
                       3 colours<br/>&pound;0.20 m<sup>2</sup>
                     </span>
@@ -33,7 +33,7 @@ export default class Step3 extends Component {
                   <label>
                     <input type="radio" name="quality" value="2-C"
                     onChange={this.handleInputChange}
-                    defaultChecked={quality==="2-color" ? true : false}/>
+                    defaultChecked={quality==="2-C" ? true : false}/>
                     <span className="btn btn-radio">
                       2 colours<br/>&pound;0.10 m<sup>2</sup>
                     </span>
@@ -43,7 +43,7 @@ export default class Step3 extends Component {
                   <label>
                     <input type="radio" name="quality" value="Black"
                     onChange={this.handleInputChange}
-                    defaultChecked={quality==="black-only" ? true : false}/>
+                    defaultChecked={quality==="Black" ? true : false}/>
                     <span className="btn btn-radio">
                       Black only<br/>&pound;0.05 m<sup>2</sup>
                     </span>
@@ -53,7 +53,7 @@ export default class Step3 extends Component {
                   <label>
                     <input type="radio" name="quality" value="None"
                     onChange={this.handleInputChange}
-                    defaultChecked={quality==="no-printing" ? true : false}/>
+                    defaultChecked={quality==="None" ? true : false}/>
                     <span className="btn btn-radio">
                       No printing<br/>&pound;0.00
                     </span>
@@ -63,7 +63,7 @@ export default class Step3 extends Component {
                   <label>
                     <input type="radio" name="quality" value="FantasticBoxCo"
                     onChange={this.handleInputChange}
-                    defaultChecked={quality==="FantasticBoxCo-branding" ? true : false}/>
+                    defaultChecked={quality==="FantasticBoxCo" ? true : false}/>
                     <span className="btn btn-radio">
                       <strong>FantasticBoxCo</strong> branding<br/>5% discount on total price
                     </span>
